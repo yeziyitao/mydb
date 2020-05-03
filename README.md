@@ -26,7 +26,6 @@ Import keys:
 
 ``` shell
 make bench
-```
 
 yezi$ bin/Client
 Welcome to the mydb v0.0.2
